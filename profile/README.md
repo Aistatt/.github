@@ -46,10 +46,9 @@ This **ecosystem approach** allows us to evaluate cost-performance tradeoffs and
 
 
 ## 🛒 Case Study: Pitchin Project – Automated Kiosks
-One of AiStätt’s recent projects is a **fully touchless grocery shop**:
+Creating a pitching project as **fully touchless grocery shop**:
 - Customers select items using **gestures, voice, or presence** — no physical contact.  
-- Powered by **robotic arms** and **sensor fusion technologies**.  
-- System autonomously picks and delivers groceries, eliminating human intervention.  
+- Powered by **robotic arms** and **sensor fusion , Ai..**.  
 
 **Designed for small-scale shop owners**:
 - Operate 24/7 with minimal staffing.  
